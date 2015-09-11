@@ -1,7 +1,7 @@
 name = albert
 type = body+head
 scale = 1
-filename = https://cdn.rawgit.com/huffman/storage/master/models/glasses.fbx
+filename = https://rawgit.com/huffman/storage/master/models/glasses.fst
 texdir = https://s3.amazonaws.com/hifi-public/ozan/avatars/albert/albert/textures
 joint = jointHead = HeadTop_End
 joint = jointEyeRight = eye_right1
